@@ -94,4 +94,7 @@
     .text-container{
       text-align: justify;
     }
+    .text-container-education{
+      text-align: center;
+    }
   }

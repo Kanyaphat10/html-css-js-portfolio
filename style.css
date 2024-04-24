@@ -283,9 +283,10 @@ section {
   display: flex;
 }
 
-.text-container li{
+.text-container li {
   list-style: circle;
   margin-left: 40px;
+  margin-right: 40px;
 }
 
 
